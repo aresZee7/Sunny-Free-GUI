@@ -1,6 +1,6 @@
 ### Themes All
 - [Home](https://github.com/aresZee7/Sunny-Free-GUI/blob/main/README.md)
-
+- [Back](https://github.com/aresZee7/Sunny-Free-GUI/blob/main/README.md)
 - Normal Theme
 
 ![image](https://github.com/user-attachments/assets/a1de1541-1fb5-4cd5-bff2-83352db1610f)
