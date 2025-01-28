@@ -18,7 +18,8 @@ local Windown = library.Create({
         ['DropDownSelect'] = Color3.fromRGB(61, 65, 90),
         ['TextColor'] = Color3.fromRGB(142, 144, 150)
     }
-})```
+})
+```
 
 - Orange Theme
 ![image](https://github.com/user-attachments/assets/c7e950cc-fd25-47e0-8330-862181702905)
