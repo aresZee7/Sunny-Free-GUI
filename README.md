@@ -3,6 +3,4 @@
 - Free GUI For Scripter Roblox Dev
 - By Ares or Ares7
   
-```lua
-
-```
+`<UI LUX002>` : <https://github.com/aresZee7/Sunny-Free-GUI/blob/main/Tap/Lux002.md>
