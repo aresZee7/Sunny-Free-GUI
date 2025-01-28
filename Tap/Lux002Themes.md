@@ -1,6 +1,5 @@
 ### Themes All
-- [Home](https://github.com/aresZee7/Sunny-Free-GUI/blob/main/README.md)
-- [Back](https://github.com/aresZee7/Sunny-Free-GUI/blob/main/Tap/Lux002.md)
+- [Home](https://github.com/aresZee7/Sunny-Free-GUI/blob/main/README.md) - [Back](https://github.com/aresZee7/Sunny-Free-GUI/blob/main/Tap/Lux002.md)
 
 - Normal Theme
 
